@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "531237664836",
+    "project_id": "simple-travel-app",
+    "storage_bucket": "simple-travel-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531237664836:android:432dadeffa8ad58dcd6411",
+        "android_client_info": {
+          "package_name": "com.example.simpletravelapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531237664836-i9hbq1k5ssfr36v2f4t97fidq00mltnc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ3jt92d05rcGffzN57d_WD2e0d-TYlpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531237664836-i9hbq1k5ssfr36v2f4t97fidq00mltnc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
